@@ -8,7 +8,10 @@
     "autoload": {
         "psr-4": {
             "Jordansinou\\Phpunit\\": "src/"
-        }
+        },
+        "files": [
+            "./src/functions.php"
+        ]
     },
     "authors": [
         {
