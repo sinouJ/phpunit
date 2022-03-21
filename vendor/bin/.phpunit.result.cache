@@ -1,1 +1,1 @@
-{"version":1,"defects":{"UnitariesTest::test_multiply":4},"times":{"UnitariesTest::test_multiply":0.002}}
+{"version":1,"defects":{"UnitariesTest::test_multiply":4,"IntegrationsTest::test_index":3},"times":{"UnitariesTest::test_multiply":0.002,"IntegrationsTest::test_index":0.014}}

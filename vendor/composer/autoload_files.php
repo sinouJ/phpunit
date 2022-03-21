@@ -14,4 +14,5 @@ return array(
     '37a3dc5111fe8f707ab4c132ef1dbc62' => $vendorDir . '/guzzlehttp/guzzle/src/functions_include.php',
     'ec07570ca5a812141189b1fa81503674' => $vendorDir . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
     '655cc2153aae35e331ef05a092e0c0d2' => $baseDir . '/src/functions.php',
+    '379a59cc556be94773721b44b3dd55b3' => $baseDir . '/src/utils.php',
 );
